@@ -9,7 +9,7 @@ Sviluppare un report di BI che consenta di analizzare:
 
 **Fonti dei dati**
 
-Sono stati forniti 9 file in formato .csv di cui 5 sono risultati utili ai fini delle analisi. Nella tabella di seguito sono elencati e descritti i dataset utilizzati e le loro caratteristiche principali:
+Sono stati forniti 9 file in formato .csv di cui 5 sono risultati utili ai fini delle analisi. Di seguito sono elencati e descritti i dataset utilizzati e le loro caratteristiche principali:
 
 DATASET | DESCRIZIONE | CAMPI
 
