@@ -21,7 +21,7 @@ DATASET | DESCRIZIONE | CAMPI
 
 **Trasformazione e pulizia dei dati**
 
-Dopo aver caricato i dataset tramite la funzione Recupera dati, i dati sono stati trasformati in Power Query per garantire coerenza e qualità:
+Dopo aver caricato i dataset tramite la funzione *Recupera dati*, i dati sono stati trasformati in *Power Query* per garantire coerenza e qualità:
 
 - Controllo e correzione dei tipi di colonna, assegnando a ciascun campo il tipo più appropriato (testo, data, numerico, valuta);
 - Gestione e sostituzione di valori nulli o anomali dei campi utili all’analisi;
@@ -29,7 +29,7 @@ Dopo aver caricato i dataset tramite la funzione Recupera dati, i dati sono stat
 
 **Struttura del modello dati**
 
-Una volta importate le tabelle su Power BI, sono state create le tabelle DAX Calendario e ReviewCalendar, ed in seguito impostato le seguenti relazioni nella sezione Model View creando uno Star Shema al cui centro si trova la tabella olist_orders_dataset:
+Una volta importate le tabelle su *Power BI*, sono state create le tabelle DAX Calendario e ReviewCalendar, ed in seguito impostato le seguenti relazioni nella sezione *Model View* creando uno *Star Shema* al cui centro si trova la tabella olist_orders_dataset:
 
 - Relazione 1 a molti tra olist_orders_dataset e olist_order_items_dataset;
 - Relazione 1 a 1 tra olist_orders_dataset e olist_customers_dataset;
