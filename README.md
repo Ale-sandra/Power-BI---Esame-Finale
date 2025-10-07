@@ -13,11 +13,11 @@ Sono stati forniti 9 file in formato .csv di cui 5 sono risultati utili ai fini 
 
 DATASET | DESCRIZIONE | CAMPI
 
-olist_orders_dataset | Informazioni sugli ordini | customer_id, customer_unique_id, customer_zip_code_prefix, customer_city, customer_state
-olist_order_items_dataset | Dettagli sugli articoli ordinati | order_id, order_item_id, product_id, seller_id, shipping_limit_date, price, freight_value
-olist_products_dataset | Caratteristiche dei prodotti |	product_id, product_category_name, product_weight_g, product_length_cm, product_height_cm, product_width_cm
-olist_order_reviews_dataset | Recensioni e valutazioni dei clienti | review_id, order_id, review_score, review_creation_date, review_answer_timestamp
-olist_customers_dataset | Dati anagrafici e geografici dei clienti | customer_id, customer_unique_id, customer_zip_code_prefix, customer_city, customer_state
+- olist_orders_dataset | Informazioni sugli ordini | customer_id, customer_unique_id, customer_zip_code_prefix, customer_city, customer_state
+- olist_order_items_dataset | Dettagli sugli articoli ordinati | order_id, order_item_id, product_id, seller_id, shipping_limit_date, price, freight_value
+- olist_products_dataset | Caratteristiche dei prodotti |	product_id, product_category_name, product_weight_g, product_length_cm, product_height_cm, product_width_cm
+- olist_order_reviews_dataset | Recensioni e valutazioni dei clienti | review_id, order_id, review_score, review_creation_date, review_answer_timestamp
+- olist_customers_dataset | Dati anagrafici e geografici dei clienti | customer_id, customer_unique_id, customer_zip_code_prefix, customer_city, customer_state
 
 **Trasformazione e pulizia dei dati**
 
